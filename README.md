@@ -1,5 +1,12 @@
 ### Olá sou Gabriel Marcolino Silva 👋
 
+<ul>
+  <li> 🎓 Graduando em Bacharelado em Ciências Exatas e Tecnológicas - UFRB </li>
+  <li> 🏹 Almejando graduação em Engenharia da Computação </li>
+  <li> 🏢 Projetista de Computação na Engenhe Jr </li>
+  <li> 🔭 Desenvolvendo projetos front-end </li>
+</ul>
+
 <!--
 **Gabriel-MarcoSilva/Gabriel-MarcoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
