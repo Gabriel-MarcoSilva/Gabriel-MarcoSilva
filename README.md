@@ -4,6 +4,7 @@
   <li> 🎓 Graduando em Bacharelado em Ciências Exatas e Tecnológicas - UFRB </li>
   <li> 🏹 Almejando graduação em Engenharia da Computação </li>
   <li> 🏢 Projetista de Computação na Engenhe Jr </li>
+  <li> 💼 Estagiando como desenvolvedor front-end na Embrapa </li>
   <li> 🔭 Desenvolvendo projetos front-end </li>
 </ul>
 
